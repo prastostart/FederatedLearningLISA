@@ -1,0 +1,7 @@
+# Ignore dataset folders
+lisa_dataset/
+*.pkl
+*.h5
+*.pt
+__pycache__/
+.DS_Store
